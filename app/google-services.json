@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "58179961777",
+    "project_id": "ecommerceapp-435d7",
+    "storage_bucket": "ecommerceapp-435d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58179961777:android:87a3185b19e3eb7fe57390",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58179961777-vgijbjrkrdu48tadlk6hgo0nftd6siun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWeLevqIeanYVXQPT3c0f1fG9Izjyujw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58179961777-vgijbjrkrdu48tadlk6hgo0nftd6siun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58179961777:android:e251b185923008e3e57390",
+        "android_client_info": {
+          "package_name": "com.example.recipefinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58179961777-vgijbjrkrdu48tadlk6hgo0nftd6siun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWeLevqIeanYVXQPT3c0f1fG9Izjyujw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58179961777-vgijbjrkrdu48tadlk6hgo0nftd6siun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
